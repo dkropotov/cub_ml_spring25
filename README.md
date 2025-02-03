@@ -26,6 +26,10 @@ In the middle of the course a mid-term written exam is planned. This exam helps 
 
 The described bonuses can't exceed together 10% and are given only in case of basic exam grade is higher than 45%.
 
+## Exam 
+
+The final written exam is planned to be offline on campus. Test exams for the previous year: [test mid-term](Materials/midterm_exam_test.pdf), [test mid-term reference solution](Materials/midterm_exam_test_reference.pdf), [test final exam](Materials/exam_test.pdf), [test final exam reference solution](Materials/exam_test_reference.pdf)
+
 ## Lectures
 
 | Date | Number | Topic | Materials |
