@@ -18,6 +18,14 @@ Written examination, Duration: 120 min, Weight: 100 %
 
 Completion: To pass this module, the exam must be passed with at least 45%.
 
+## Home assignments and mid-term exam
+
+In the course there will be given several home assignments in the form of Jupyter notebooks and theoretical assignments on vector-matrix calculus. Completing these assignments is fully optional. However, there will be a small bonus for making these assignments (5% to the final course grade in case of total assignments grade between 30% and 65%, and 10% to the final course grade in case of total assignments grade higher than 65%). 
+
+In the middle of the course a mid-term written exam is planned. This exam helps students better understand the types of problems that are expected in the final course exam. For successfull passing of this mid-term exam a small bonus is supposed (5% to the final course grade in case of mid-term grade between 45% and 70%, and 10% to the final course grade in case of mid-term grade higher than 70%).
+
+The described bonuses can't exceed together 10% and are given only in case of basic exam grade is higher than 45%.
+
 ## Lectures
 
 | Date | Number | Topic | Materials |
