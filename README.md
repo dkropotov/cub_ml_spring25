@@ -22,7 +22,7 @@ Completion: To pass this module, the exam must be passed with at least 45%.
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
-| 04.02.25 | 01 | Introduction to the course. Basic terminology in ML, feature types, standard ML problem types. Overfitting and cross-validation. Pandas library and exploratory data analysis.	|  |
+| 07.02.25 | 01 | Introduction to the course. Basic terminology in ML, feature types, standard ML problem types. Overfitting and cross-validation. Pandas library and exploratory data analysis.	|  |
 
 
 ## Literature
