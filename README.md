@@ -1,6 +1,6 @@
 # CUB Machine Learning, Spring 2025
 
-Course description here.
+This course makes introduction to Machine Learning (ML) field. ML is a branch of artificial intelligence (AI) that enables computers to learn from data and make decisions or predictions without being explicitly programmed. ML is used in applications like speech recognition, internet search engines, recommendation systems, and so on. The course presents different methods for solving supervised regression and classification problems like linear and logistic regression, support vector machines and decision trees. Then the course discusses composition of ML algorithms, the problem of bias-variance decomposition and the methods like random forest and gradient boosting. The course also covers topics of relevant feature selection, unsupervised ML problems and ranking. Together with ML-related material the course includes necessary discussion of basic mathematical tools actively used in ML like probability and statistics, optimization algorithms and vector-matrix calculus. 
 
 **Instructor**: Dmitry Kropotov
 
