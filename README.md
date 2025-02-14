@@ -35,6 +35,7 @@ The final written exam is planned to be offline on campus. Test exams for the pr
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
 | 07.02.25 | 01 | Introduction to the course. Basic terminology in ML, feature types, standard ML problem types. Overfitting and cross-validation. Pandas library and exploratory data analysis.	| [Presentation](Materials/01-intro.pptx)<br> [ipynb](https://colab.research.google.com/drive/1XBc5gGHwtK7gh-Ajft_1o2hB1tq9Pq5v?usp=sharing)<br> [Video 1](https://player.vimeo.com/video/908116908?h=3f3f70101a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479), [Video 2](https://player.vimeo.com/video/908117286?h=bc61876ce5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479), [Video 3](https://player.vimeo.com/video/908117581?h=0e1d114484&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479), [Video 4](https://player.vimeo.com/video/908118001?h=2bb61615b3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479) |
+| 14.02.25 | 02 | Linear regression. Loss functions for regression. Regularization. Matrix-vector manipulation and differentiation.	| [Presentation](Materials/02-linreg-diff.pptx) |
 
 
 ## Literature
